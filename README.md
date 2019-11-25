@@ -10,4 +10,5 @@
 10. copy git remote add origin git@github.com:ninal1811/repotest.git and git push -u origin master
 11. go to ide coding area and git add README.md
 12. git commit -m "added steps on making a repo"
-12. paste git remote add origin git@github.com:ninal1811/repotest.git and git push -u origin master into the coding area 
+13. paste git remote add origin git@github.com:ninal1811/repotest.git and git push -u origin master into the coding area 
+14. for every message added to the file, git add README.md, git commit -m "added steps on making a repo", and git push
